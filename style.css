@@ -1,0 +1,18 @@
+body{
+	background-color: #fcd5ce;
+	color: #ffb5a7;
+}
+
+.container{
+	background-color:aliceblue;
+	padding: 15px ;
+}
+
+h1{
+	font-family: arial;
+	font-stretch: extra-condensed;
+}
+
+#friend{
+	width: 40%;
+}
